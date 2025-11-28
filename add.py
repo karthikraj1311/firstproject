@@ -1,4 +1,4 @@
 a=14
 b=2
 c=30
-print(a+b+c)
+print(a*b*c)
